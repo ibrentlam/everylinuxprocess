@@ -1,6 +1,7 @@
 ---
 title: Projects
 child_type: default
+visible: false
 ---
 
 ###Projects
