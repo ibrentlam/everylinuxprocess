@@ -13,7 +13,7 @@ USER       PID  COMMAND
 
 root         2  [[kthreadd](http://stackoverflow.com/questions/13390568/kernel-thread-kthreadd)]
 
-root         4   \\_ [kworker/0:0H]
+root         4   \\_ [[kworker](https://askubuntu.com/questions/33640/kworker-what-is-it-and-why-is-it-hogging-so-much-cpu)/0:0H]
 
 root         6   \\_ [ksoftirqd/0]
 
