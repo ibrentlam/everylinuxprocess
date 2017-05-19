@@ -11,7 +11,7 @@ Hence the idea for this site. I just installed a default version of Ununtu 16.04
 
 ```
 USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
-root         2  0.0  0.0      0     0 ?        S    May10   0:00 [<a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">kthreadd</a>]
+root         2  0.0  0.0      0     0 ?        S    May10   0:00 [kthreadd]
 root         4  0.0  0.0      0     0 ?        S<   May10   0:00  \_ [kworker/0:0H]
 root         6  0.0  0.0      0     0 ?        S    May10   0:00  \_ [ksoftirqd/0]
 root         7  0.0  0.0      0     0 ?        S    May10   0:06  \_ [rcu_sched]
