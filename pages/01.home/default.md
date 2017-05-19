@@ -11,7 +11,7 @@ Hence the idea for this site. I just installed a default version of Ununtu 16.04
 
 USER       PID  COMMAND
 
-root         2  [kthreadd]
+root         2  [[kthreadd](http://stackoverflow.com/questions/13390568/kernel-thread-kthreadd)]
 
 root         4   \\_ [kworker/0:0H]
 
