@@ -15,7 +15,7 @@ root         2  [[kthreadd](http://stackoverflow.com/questions/13390568/kernel-t
 
 root         4   \\_ [[kworker](https://askubuntu.com/questions/33640/kworker-what-is-it-and-why-is-it-hogging-so-much-cpu)/0:0H]
 
-root         6   \\_ [ksoftirqd/0]
+root         6   \\_ [[ksoftirqd](http://www.ms.sapientia.ro/~lszabo/unix_linux_hejprogramozas/man_en/htmlman9/ksoftirqd.9.html)/0]
 
 root         7   \\_ [rcu_sched]
 
