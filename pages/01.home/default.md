@@ -17,7 +17,7 @@ root         4   \\_ [[kworker](https://askubuntu.com/questions/33640/kworker-wh
 
 root         6   \\_ [[ksoftirqd](http://www.ms.sapientia.ro/~lszabo/unix_linux_hejprogramozas/man_en/htmlman9/ksoftirqd.9.html)/0]
 
-root         7   \\_ [rcu_sched]
+root         7   \\_ [[rcu_sched](https://lwn.net/Articles/518953/)]
 
 root         8   \\_ [rcu_bh]
 
