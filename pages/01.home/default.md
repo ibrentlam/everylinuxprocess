@@ -9,6 +9,8 @@ The other day while teaching an Intro to Linux class, I did a ```ps```
 
 Hence the idea for this site. I just installed a default version of Ununtu 16.04, and did a ```ps auxf``` on May 16, 2017, and cut out some of the less germaine columns. Below you'll see the results of that and I'll attempt to annotate each and every process present. Wish me luck. 
 
+<div class="ps">
+
 USER       PID  COMMAND
 
 root         2  [[kthreadd](http://stackoverflow.com/questions/13390568/kernel-thread-kthreadd)]
@@ -439,4 +441,4 @@ lp        6819   \\_ /usr/lib/cups/notifier/dbus dbus://
 
 root      6774  /usr/sbin/cups-browsed
 
-
+</div>
